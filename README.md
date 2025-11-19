@@ -346,7 +346,7 @@ Este projeto foi desenvolvido como parte de um curso/treinamento. Consulte os te
 
 ## 👥 Créditos
 
-- **Criado por**: [Seu Nome]
+- **Criado por**: Marcus Vinicius
 - **Design**: Bootstrap 5
 - **Ícones**: Bootstrap Icons
 - **Parceiros**: Codai, Growdev
