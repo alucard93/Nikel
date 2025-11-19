@@ -16,6 +16,14 @@ header {
   color: #4e0070;
 }
 
+.dropdown-item {
+  padding: 0 !important;
+}
+
+.dropdown-menu {
+  padding: 0 !important;
+  min-width: auto !important;
+}
 .color-secondary {
   color: #4c79d3;
 }
